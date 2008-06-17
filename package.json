@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/menubutton",
+  "description": "CKEditor 4 menubutton plugin",
+  "keywords": ["ckeditor", "plugin", "menubutton"],
+  "homepage": "https://ckeditor.com/cke4/addon/menubutton",
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor4/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+		"type": "git",
+    "url": "https://github.com/ckeditor/ckeditor4.git",
+    "directory": "plugins/menubutton"
+	}
+}
